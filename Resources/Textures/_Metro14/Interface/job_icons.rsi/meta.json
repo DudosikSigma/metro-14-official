@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "license": "Metro-14 CLA",
+    "copyright": "Made by timxx",
+    "size": {
+        "x": 8,
+        "y": 8
+    },
+    "states": [
+        {
+            "name": "hansa"
+        },
+        {
+            "name": "redline"
+        },
+        {
+            "name": "tech"
+        },
+        {
+            "name": "vdnh"
+        },
+        {
+            "name": "hydra"
+        },
+        {
+            "name": "sparta"
+        },
+        {
+            "name": "lentocnik"
+        }
+    ]
+}
