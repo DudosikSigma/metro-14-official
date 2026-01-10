@@ -1091,10 +1091,6 @@
             ]
         },
         {
-            "name": "cultrobesalt_t",
-            "directions": 4
-        },
-        {
             "name": "techpriest",
             "directions": 4,
             "delays": [
