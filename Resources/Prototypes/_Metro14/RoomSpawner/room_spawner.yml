@@ -63,3 +63,43 @@
   - type: Sprite
     sprite: _Metro14/RoomSpawner/room_4x4.rsi
     state: room_4x4
+
+- type: entity
+  parent: M14BaseRoomSpawner
+  id: M14RoomSpawner_3x3
+  suffix: ROOM_33
+  components:
+  - type: RoomSpawner
+    roomId: room_3x3_Plug
+    roomsTag:
+    - Room_3x3
+  - type: Sprite
+    sprite: _Metro14/RoomSpawner/room_3x3.rsi
+    state: room_3x3
+
+- type: entity
+  parent: M14BaseRoomSpawner
+  id: M14RoomSpawner_3x5
+  suffix: ROOM_35
+  components:
+  - type: RoomSpawner
+    roomId: room_3x5_Plug 
+    roomsTag:
+    - Room_3x5
+  - type: Sprite
+    sprite: _Metro14/RoomSpawner/room_3x5.rsi
+    state: room_3x5
+
+- type: entity
+  parent: M14BaseRoomSpawner
+  id: M14RoomSpawner_7x7
+  suffix: ROOM_77
+  components:
+  - type: RoomSpawner
+    roomId: room_7x7_Plug
+    roomsTag:
+    - Room_7x7
+  - type: Sprite
+    sprite: _Metro14/RoomSpawner/room_7x7.rsi
+    state: room_7x7
+

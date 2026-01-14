@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "license": "Metro-14 CLA",
+  "copyright": "Created by Kompotik",
+  "size": {
+    "x": 160,
+    "y": 96
+  },
+  "states": [
+    {
+      "name": "room_3x5"
+    }
+  ]
+}

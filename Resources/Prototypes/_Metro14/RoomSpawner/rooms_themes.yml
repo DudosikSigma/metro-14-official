@@ -89,17 +89,25 @@
     - Lab_31_5x5
 
 - type: dungeonRoom
-  id: Lab_31_5x5_8
-  size: 5,5
+  id: room_3x3_Plug
+  size: 3,3
   atlas: /Maps/_Metro14/RoomSpawner/Themes/Test/pool_rooms.yml
-  offset: 18,6
+  offset: 15,12
   tags:
-    - Lab_31_5x5
+    - Room_3x3
 
 - type: dungeonRoom
-  id: Lab_31_5x5_Plug
-  size: 5,5
+  id: room_3x5_Plug
+  size: 3,5
   atlas: /Maps/_Metro14/RoomSpawner/Themes/Test/pool_rooms.yml
-  offset: 24,0
+  offset: 19,12
   tags:
-    - Lab_31_5x5
+    - Room_3x5
+
+- type: dungeonRoom
+  id: room_7x7_Plug
+  size: 7,7
+  atlas: /Maps/_Metro14/RoomSpawner/Themes/Test/pool_rooms.yml
+  offset: 23,12
+  tags:
+    - Room_7x7
